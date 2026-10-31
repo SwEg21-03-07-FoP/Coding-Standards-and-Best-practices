@@ -2,7 +2,6 @@
 
 - [C++ Coding Standards: 101 Rules, Guidelines, and Best Practices](http://micro-os-plus.github.io/develop/sutter-101/)
 - [C++ Core Guidelines](https://isocpp.github.io/CppCoreGuidelines/CppCoreGuidelines)
-- [C++ Best Practices: Styling](https://lefticus.gitbooks.io/cpp-best-practices/content/03-Style.html)
 - [C++ Best Practices & Guidelines](https://hackingcpp.com/cpp/guidelines.html)
 
 ------
